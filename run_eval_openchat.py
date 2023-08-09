@@ -45,7 +45,7 @@ def gen_prompt(train_df, subject, k=-1):
 def get_next_word_predictions(model, tokenizer, prompts, candidate_token_ids=None, batch_size=1, return_token_predictions=False, disable_tqdm=False):
     predictions, probs = [], []
     if not disable_tqdm:
-        progress = tqdm.tqdm(total=len(prompts), desc="Getting Predictions")
+        progress = tqdm(total=len(prompts), desc="Getting Predictions")
 
     for i in range(0, len(prompts), batch_size):
         batch_prompts = prompts[i: i+batch_size]
@@ -146,7 +146,7 @@ def query_openai_chat_model(engine, instances, output_path=None, batch_size=10, 
         fout = open(output_path, "w")
 
     retry_count = 0
-    progress_bar = tqdm.tqdm(total=len(instances))
+    progress_bar = tqdm(total=len(instances))
     for i in range(0, len(instances), batch_size):
         batch = instances[i:i+batch_size]
         if all([x["id"] in existing_data for x in batch]):
@@ -378,9 +378,9 @@ def main(args):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ntrain", type=int, default=5)
-    parser.add_argument("--data_dir", type=str, default="data/mmlu")
-    parser.add_argument("--save_dir", type=str, default="results/mmlu/llama-7B/")
+    parser.add_argument("--ntrain", type=int, default=0)
+    parser.add_argument("--data_dir", "-d", type=str, default="data")
+    parser.add_argument("--save_dir", "-s", type=str, default="results")
     parser.add_argument("--model_name_or_path", type=str, default=None, help="if specified, we will load the model to generate the predictions.")
     parser.add_argument("--tokenizer_name_or_path", type=str, default=None, help="if specified, we will load the tokenizer from here.")
     parser.add_argument("--openai_engine", type=str, default=None, help="if specified, we will use the OpenAI API to generate the predictions.")

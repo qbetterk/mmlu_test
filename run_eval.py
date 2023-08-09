@@ -179,7 +179,7 @@ def main(args):
         args.save_dir, "accuracies_{}_{}_{}.json".format(args.model.replace("/", "_"), args.ntrain, args.max_len)
     )
     with open(results_file, "w") as f:
-        json.dump(results, f)
+        json.dump(results, f, indent=2)
 
 
 if __name__ == "__main__":
