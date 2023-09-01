@@ -176,7 +176,7 @@ def main(args):
     print("Average accuracy: {:.3f}".format(weighted_acc))
 
     results_file = os.path.join(
-        args.save_dir, "accuracies_{}_{}_{}.json".format(args.model.replace("/", "_"), args.ntrain, args.max_len)
+        args.save_dir, "accuracies_{}_{}_{}".format(args.model.replace("/", "_"), args.ntrain, args.max_len)+"_acc{0:.3f}.json".format(weighted_acc)
     )
     with open(results_file, "w") as f:
         json.dump(results, f, indent=2)
