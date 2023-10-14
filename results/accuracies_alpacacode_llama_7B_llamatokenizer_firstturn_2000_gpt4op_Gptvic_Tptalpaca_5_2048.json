@@ -1,0 +1,28 @@
+{
+  "subcategories": {
+    "math": 0.2894736842105263,
+    "health": 0.3975609756097561,
+    "physics": 0.33125,
+    "business": 0.459954233409611,
+    "biology": 0.3722466960352423,
+    "chemistry": 0.3333333333333333,
+    "computer science": 0.3567961165048544,
+    "economics": 0.3423180592991914,
+    "engineering": 0.32413793103448274,
+    "philosophy": 0.31759443339960236,
+    "other": 0.4145922746781116,
+    "history": 0.4,
+    "geography": 0.4393939393939394,
+    "politics": 0.42592592592592593,
+    "psychology": 0.41832324978392393,
+    "culture": 0.41566265060240964,
+    "law": 0.33862733976176973
+  },
+  "categories": {
+    "STEM": 0.3260437375745527,
+    "humanities": 0.3417640807651435,
+    "social sciences": 0.4026649333766656,
+    "other (business, health, misc.)": 0.4120913016656385
+  },
+  "weighted_accuracy": 0.36796752599344823
+}
