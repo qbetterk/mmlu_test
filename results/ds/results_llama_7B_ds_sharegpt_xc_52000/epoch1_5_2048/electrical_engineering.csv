@@ -1,0 +1,146 @@
+0,1,2,3,4,5,llama_7B_ds_sharegpt_xc_52000/epoch1_correct,llama_7B_ds_sharegpt_xc_52000/epoch1_choiceA_probs,llama_7B_ds_sharegpt_xc_52000/epoch1_choiceB_probs,llama_7B_ds_sharegpt_xc_52000/epoch1_choiceC_probs,llama_7B_ds_sharegpt_xc_52000/epoch1_choiceD_probs
+The Barkhausen criterion for an oscillator,Loop gain should be unity,Loop gain should be less than unity,The phase of a feedback signal with respect to input should be 0° or 360°,Both A and C,D,False,0.632924,0.16002825,0.097062044,0.1099857
+Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because,It loads the circuit moderately.,It loads the circuit to maximum extent.,It uses centre zero galvanometer instead of voltmeter.,It does not load the circuit at all.,D,False,0.6646035,0.10192025,0.21576515,0.017711082
+Which of these sets of logic gates are designated as universal gates?,"NOR, NAND.","XOR, NOR, NAND.","OR, NOT, AND.","NOR, NAND, XNOR.",A,False,0.3096136,0.65545195,0.017467203,0.017467203
+"A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",30° to 150°.,30° to 180°.,60° to 120°.,60° to 180°.,A,True,0.31911525,0.2816182,0.24852721,0.15073937
+A box which tells the effect of inputs on control sub system is known as,Data Box.,Logical box.,Decision box.,State box.,C,False,0.64910746,0.27058825,0.06841542,0.011888818
+Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is,same as that produced by one plate.,double the field produced by one plate.,dependent on coordinates of field points.,zero.,D,False,0.42873168,0.15772158,0.37835437,0.035192437
+The resistance in the circuit of the moving coil of a dynamometer wattmeter should be,Low.,Very low.,High.,Almost zero.,C,False,0.3030069,0.26740265,0.26740265,0.1621879
+The following are the necessary requirements of an oscillator,Amplitude stability,Frequency stability,Power stability,Both A and B,D,False,0.517554,0.0899374,0.115481906,0.27702668
+The normal voltage used in directional heating is,1.5 KV.,15 KV.,33 KV.,66 KV.,A,True,0.44391742,0.26924953,0.20969173,0.077141285
+LC oscillators are used for produce a waveform with frequency ranging from,1MHz to 500 MHz,100 KHz to 500 MHz,1 KHz to 1 MHz,1MHz to 100 GHz,A,True,0.6927321,0.13640703,0.15456943,0.016291497
+A working diode must have,High resistance when forward or reverse biased,"Low resistance when forward biased, while high resistance when reverse bias","High resistance when forward biased, while low resistance when reverse bias",Low resistance when forward or reverse biased,B,False,0.7738275,0.071977176,0.10472616,0.049469136
+What is the name of the fluorescent material that gives red colour fluorescence?,Zinc silicate.,Calcium silicate.,Zinc sulphide.,Magnesium silicate.,D,False,0.1481987,0.07000411,0.7526151,0.029182054
+How many bits are required to store one BCD digit ?,1,2,3,4,D,False,0.07625606,0.3872602,0.30159855,0.23488519
+Commutator in DC generator is used for,collecting of current,reduce losses,increase efficiency,convert AC armature current in to DC,D,False,0.8476598,0.07884465,0.061404273,0.012091218
+1 F is theoretically equal to,1 ohm of resistance,ratio of 1 V to 1 C,ratio of 1 C to 1 V,none of these,C,False,0.44827807,0.23994596,0.21175157,0.10002436
+How many entries will be in the truth table of a 3 input NAND gate ?,3,6,8,9,C,True,0.027301585,0.057797458,0.6213812,0.2935197
+In decimal number system what is MSD,First digit from left to right,First digit from right to left,Middle digit,Mean of all digits,A,False,0.12881424,0.16540074,0.39677578,0.30900928
+"In Digital Logic Designs, GAL is abbreviated as",General Advance Logic,General Array Logic,Generic Advance Logic,Generic Array Logic,D,False,0.47369844,0.093276754,0.36891672,0.06410811
+Inintel 8085A microprocessor ALE signal is made high to,Enable the data bus to be used as low order address bus,To latch data D0-D7 from data bus,To disable data bus,To achieve all the functions listed above,A,True,0.7466119,0.06944573,0.06944573,0.11449665
+For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?,111.9 ohm,11.19 ohm,108 ohm,115 ohm,A,False,0.17698753,0.2918031,0.33065623,0.20055315
+The concept of V/f control of inverters driving induction motors resuls in,constant torque operation,speed reversal,reduced magnetic loss,hormonic elimination,A,False,0.046059053,0.021756757,0.92512083,0.0070633846
+"The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is",0.015 joule.,0.15 joule.,0.015 joule.,1.15 joule.,B,False,0.20555145,0.16008364,0.55874676,0.07561815
+"While operating on variable frequency supplies, the AC motor requires variable voltage in order to",protect the insulation.,avoid effect of saturation.,improve the capabilities of the inverter.,protect thyristor from dV / dt.,B,False,0.742643,0.14623508,0.08869606,0.022425875
+Which of the following windings are necessary in case of all dc machines?,closed winding,lap winding,wave winding,open type winding,A,True,0.6667294,0.31494066,0.013837527,0.004492387
+Relaxation Voltage controlled oscillators are used to generate,Sinusoidal wave,Triangular wave,Sawtooth wave,Both B and C,D,False,0.3788722,0.2603948,0.15793742,0.20279567
+The supply frequency usually employed for high frequency eddy current heating is,1 KHz.,5 KHz.,10 MHz.,10 KHz to 400 KHz.,D,True,0.06329671,0.104358636,0.15184093,0.6805038
+In the toggle mode a JK flip-flop has,"J = 0, K = 0.","J = 1, K = 1.","J = 0, K = 1.","J = 1, K = 0.",B,True,0.26457518,0.38495463,0.26457518,0.085894994
+Electric drive is becoming more and more popular because,all of below.,it provide smooth and easy control.,it is cheaper in cost.,it is simple and reliable.,A,True,0.78640306,0.17547025,0.026909232,0.011217437
+A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is,0.32.,0.67.,0.45.,0.27.,B,False,0.19517915,0.321796,0.36464265,0.11838213
+A Binary number system has how many digits.,0,1,2,10,C,False,0.046783336,0.16328989,0.14410283,0.645824
+"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is",LC.,RL.,RC.,Any of the above.,C,False,0.4820193,0.121873565,0.25800636,0.13810085
+Advantages of open loop control system is/are,simple and economical.,accurate.,reliable.,all of the above.,A,True,0.7101651,0.10890735,0.08481713,0.09611039
+"The voltage induced in an inductor is represented as,",product of its inductance and current through it.,ratio of its inductance to current through it.,ratio of current through it to its inductance.,product of its inductance and rate of change of current through it.,D,False,0.8701303,0.11775933,0.009666274,0.002444017
+"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits",1,2,4,8,C,True,0.13821225,0.22787347,0.37569985,0.25821447
+Induction heating takes place in,conducting but non-magnetic materials.,conducting materials which may be either magnetic or non-magentic materials.,insulating materials.,conducting and magnetic materials.,B,False,0.488159,0.488159,0.014741125,0.008940944
+In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch,10,100,50,1,A,False,0.119843595,0.28748983,0.41829523,0.17437139
+Magnetic flux has the unit of,Newton,Ampere turn,Weber,Tesla,C,True,0.04418221,0.06428474,0.88742346,0.0041095857
+"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem",Reciprocity theorem,Thevinin's theorem,Norton's theorem,Compensation theorem,A,True,0.941777,0.032225836,0.022148473,0.0038488274
+A D-flip-flop is said to be transparent when,the output is LOW,the output is HIGH,the output follows clock,the output follow input,D,False,0.38253227,0.23201755,0.20475478,0.18069544
+A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be,500 Hz.,250 Hz.,400 Hz.,625 Hz.,B,False,0.22592203,0.2900896,0.3287146,0.15527378
+Speed control by variation of field flux results in,constant power drive.,constant torque drive.,variable power drive.,none of the above.,A,False,0.3114133,0.5817966,0.0892214,0.017568735
+Which of the following memories uses one transistor and one capacitor as basic memory unit,SRAM,DRAM,Both SRAM and DRAM,,B,False,0.23500371,0.23500371,0.3874556,0.14253695
+"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?",2,4,5,6,A,False,0.078628495,0.16645652,0.5127222,0.2421928
+"The output of the system has an effect upon the input quantity, then the system is a",open loop control system.,closed loop control system.,either A or B.,none of the above.,B,False,0.6838195,0.28505835,0.026514558,0.004607539
+"A sinusoidal signal is analog signal, because",it can have a number of values between the negative and positive peaks,it is negative for one half cycle,it is positive for one half cycle,it has positive as well as negative values,A,True,0.93466324,0.041066237,0.015107424,0.009163115
+FM stands for,frequent modulation.,frequency modulation.,frequency moderator.,frequent moderator.,B,True,0.084128276,0.9044642,0.010047689,0.0013598069
+Stack is also known as,FIFO memory,Flash memory,LIFO memory,LILO memory,C,False,0.47733942,0.37175232,0.10650882,0.044399485
+"In Ward-Leonard system, the lower limit of the speed imposed by",Field resistance.,Armature resistance.,Residual magnetism of the generator.,None of above.,C,False,0.5546901,0.26201704,0.15892139,0.024371384
+Colpitts oscillator is also called as,Tank circuit oscillator,LC oscillator,Resonant circuit oscillator,All of the above,D,False,0.42538452,0.4820238,0.083763175,0.008828574
+An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be,1500 A.,6000 A.,2121.32 A.,4242.64 A.,C,False,0.28168935,0.31919584,0.28168935,0.11742559
+Both the ALU and control section of CPU employ which special purpose storage location?,Buffers,Decoders,Accumulators,Registers,C,True,0.095676556,0.07451297,0.7069594,0.122851126
+Systematic errors are,environmental errors.,observational errors.,instrument errors.,all of the above.,D,False,0.5401622,0.19871457,0.15475906,0.10636424
+Which of the following is/are the disadvantages of an open loop control system?,Inaccurate.,Unreliable.,both A and B.,none of the above.,C,False,0.9293065,0.03179912,0.03179912,0.007095343
+A diode (p-n junction) when reverse biased act as,On Switch,Zener diode,Capacitor,Off Switch,D,False,0.6555784,0.18782635,0.078297675,0.078297675
+Piezoelectric effect is carried out in,composite filter.,crystal filter.,m derived.,constant k prototype.,B,True,0.2672513,0.6411026,0.07656879,0.015077288
+The resistivity of the conductor depends on,area of the conductor.,length of the conductor.,type of material.,none of these.,C,False,0.59598243,0.17075182,0.2192497,0.014016164
+The smallest change in measured variable to which instrument will respond is,resolution.,accuracy.,precision.,sensitivity.,A,True,0.626801,0.15848011,0.13985822,0.07486071
+"In electronic communications, ""AM"" stands for",Amp Modification,Amplitude Method,Amplitude Modulation,Ampere Method,C,True,0.0074751694,0.012324471,0.979054,0.0011463544
+Which system is also known as automatic control system?,Open loop control system,Closed loop control system,Either A or B,Nether A nor B,B,True,0.03655542,0.94277674,0.017267559,0.003400184
+A combinational PLD with a fixed AND array and a programmable OR array is called a,PLD,PROM,PAL,PLA,B,False,0.8788403,0.06366298,0.034076337,0.0234203
+A null type instrument as compared to a deflected type instrument has,a lower sensitivity.,a faster response.,a higher accuracy.,all of the above.,C,False,0.68041116,0.1339809,0.104344435,0.08126353
+"Length of the cable is doubled, its capacitance C will be",one-fourth.,one-half.,doubled.,unchanged.,C,True,0.11411537,0.27374855,0.5114296,0.100706466
+Electrons in p-type material of a semi-conductor are called as,either minority carriers or majority carriers,minority carriers,majority carriers,valance carriers,B,False,0.83862716,0.12860765,0.01740515,0.015359992
+________ is the most detrimental impurity in the magnetic materials,Carbon.,Sulphur.,Oxygen.,Nitrogen.,A,False,0.28769132,0.53747815,0.13589576,0.03893479
+Voltage controlled oscillators are used commonly in,Pulse Modulators Frequency Modulators Phase Clocked loops,Frequency Modulators,Phase Clocked loops,All the above,D,False,0.49309197,0.14127322,0.16008352,0.20555131
+Low frequency supply is necessary for direct core type induction furnaces because,With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.,Magnetic coupling between the primary and secondary circuit is poor.,Both A and B.,None of the above.,C,False,0.91365296,0.03542617,0.0454881,0.0054327794
+"The moving coil-meters, damping is provided by",the aluminium frame of the coil.,the coil spring attached to the moving.,eddy current disk.,damping vane in the airtight chamber.,A,False,0.18981485,0.21508838,0.51597023,0.079126604
+Which of the following is the analogous quantity for mass element in force-voltage analogy?,Resistance.,Inductance.,Capacitance.,All of the above.,B,True,0.24167733,0.39845854,0.1465847,0.2132795
+A latch is ________ sensitive,both level and edge,edge,level,,C,False,0.44827807,0.23994596,0.21175157,0.10002436
+What is used to protect the SCR from over current ?,CB and fuse.,Heat sink.,Snubber circuit.,Voltage clamping device.,A,False,0.003565618,0.0058787107,0.98864704,0.0019085378
+The errors mainly caused by human mistakes are,gross error.,instrumental error.,observational error.,systematic error.,A,True,0.5835213,0.2146655,0.14753729,0.054275937
+Electrical analogous quantity for dash-pot in force-current analogy is,resistance.,conductance.,inductance.,capacitance.,B,False,0.87391657,0.10437445,0.01813756,0.0035714973
+Which lamp has the best Colour Rendering Index (CRI)?,LED,Fluorescent,Incandescent,High pressure sodium vapour,C,True,0.17551583,0.056981646,0.6126104,0.15489216
+Power dissipation in ideal inductor is,Maximum,Minimum,Zero,A finite value,C,False,0.3248988,0.15347132,0.15347132,0.36815858
+For intermittent work which of the following furnace is suitable?,Core less furnace.,Indirect arc furnace.,Either of above.,Nither of above.,B,True,0.20590213,0.49393356,0.23331769,0.06684664
+In electrical resistance welding material of electrode should have,higher electrical conductivities.,higher thermal conductivities.,sufficient strength to sustain high pressure at elevated temperatures.,all of above.,D,False,0.5879877,0.042593688,0.31472716,0.05469138
+Which of the following are the passive elements?,Resistor,Bulb,Both,None of these.,C,False,0.8259158,0.041119926,0.12665829,0.006305945
+The main advantage of dielectric heating is that,heating occurs in the material itself.,heating occurs due to high frequency.,it can be used for drying the explosives.,None of the above.,A,True,0.5873519,0.2774454,0.10206646,0.033136126
+Materials used in heat sink should have,high thermal conductivity.,large surface area.,high melting point.,All of these.,D,False,0.85915667,0.13175595,0.0051087323,0.0039786845
+Conductor is static and the field is varying then emf will be induced. This principle is called,virtually induced emf.,dynamically induced emf.,static induced emf.,none of these,C,False,0.62840706,0.18004164,0.18004164,0.011509677
+"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is",500 MVA,400 MVA,125 MVA,100 MVA,A,False,0.13361834,0.2202994,0.3632123,0.28287002
+"According to the Bohr model, an electron gains or losses energy only by",moving faster or slower in an allowed orbit.,jumping from one allowed orbit to another.,being completely removed from an atom.,jumping from one atom to another atom.,B,False,0.9227804,0.06684599,0.0070455153,0.0033280659
+A three-state buffer has the following output states,"1, 0, float","High, Low, Float",Both A and B,"Set, Reset, Halt",C,True,0.3432353,0.20818275,0.38893658,0.05964536
+"By using which of the following elements, mechanical translational systems are obtained?",mass element,spring element,dash-pot,all of the above,D,False,0.12236365,0.7041542,0.06549655,0.10798555
+"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be",160 µF,10 µF,40 µF,5 µF,A,False,0.14179933,0.18207395,0.6355005,0.040626187
+"The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be",R Ω,2R Ω,4R Ω,8R Ω,C,False,0.21333186,0.39855638,0.27392355,0.11418832
+A single phase full bridge inverter can operated in load commutation mode in case load consist of,RL.,RLC underdamped.,RLC overdamped.,RLC critically damped.,B,True,0.18515904,0.64626855,0.12725782,0.041314565
+A microprocessor is ALU,and control unit on a single chip.,and memory on a single chip.,register unit and I/O device on a single chip.,register unit and control unit on a single chip.,D,False,0.60791373,0.17417021,0.1356439,0.08227218
+"To obtain a high value of capacitance, the permittivity of dielectric medium should be",low,zero,high,unity,C,True,0.09740956,0.05908189,0.8156003,0.027908307
+Deflection method direct measurements are most widely used as these are,least time consuming.,most simple.,most simple and least time consuming.,most accurate.,C,False,0.412491,0.15174696,0.412491,0.023271149
+Purely mechanical instrument cannot be used for dynamic measurements because they have,high inertia.,higher response time.,large time constant.,all of the above.,D,False,0.66400135,0.13074961,0.08986281,0.115386136
+Advantages of higher transmission voltage is/are,Power transfer capability of the transmission line is increased,Transmission line losses are reduced,Area of cross section and volume of the conductor is reduced,all of the above,D,False,0.9475074,0.025250217,0.015315031,0.011927358
+Under over voltage condition impedance offered by the voltage clamping device is,high.,low.,moderate.,infinity.,B,False,0.32816103,0.25557208,0.37185517,0.044411767
+A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at,lower surface of the conductor.,upper surface of the conductor.,the ground surface.,midway between the conductor and ground.,A,True,0.4319476,0.18006255,0.33640113,0.051588785
+In a dc machine 6 pole wave winding is used. The number of parallel paths are?,6,4,2,1,C,False,0.1615122,0.3017445,0.3017445,0.23499885
+Which of the following is a digital device,Regulator of a fan,Microphone,Resistance of a material,Light switch,D,True,0.28421363,0.17238429,0.2213458,0.32205623
+Instantaneous power in inductor is proportional to the,product of the instantaneous current and rate of change of current.,square of instantaneous current.,square of the rate of change of current.,temperature of the inductor.,A,True,0.96837527,0.022774003,0.008378088,0.00047265936
+Which of the following is a variable displacement transducer?,tachometer,potentiometer,synchros,none of the above,B,False,0.24293725,0.18919973,0.3534716,0.21439137
+"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be",5 µF,25 µF,10 µF,1 µF,D,False,0.2529349,0.2866128,0.2866128,0.17383946
+Susceptibility is negative for,non magnetic substances.,diamagnetic substances.,ferromagnetic substances.,none of above.,B,False,0.48641002,0.3343044,0.1579142,0.021371365
+One of the following is the primary function of an oscillator,produces sinusoidal oscillations,generates non sinusoidal waveforms,generates sustained oscillations at a constant amplitude and specific frequency,none of the above,C,False,0.82576245,0.08703472,0.06778271,0.019420072
+The metal surfaces for electrical resistance welding must be,rough.,clean.,moistened,coloured,B,False,0.4920952,0.4342725,0.058772393,0.014859987
+The latching current of SCR is 20 mA. Its holding current will be,23 mA.,40 mA.,10 mA.,60 mA.,C,True,0.21623315,0.27764884,0.40397668,0.1021413
+"In force-current analogy, electrical analogous quantity for displacement (x) is",voltage.,inductance.,capacitance.,flux.,D,False,0.56303644,0.34149888,0.0761987,0.019266047
+Feedback circuit in an oscillator can be accomplished by,Resistive coupling between input and output,Capacitive coupling between input and output,Inductive coupling between input and output,Any one or combinations of the above methods,D,False,0.374448,0.09467528,0.3304492,0.20042758
+"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is",LC circuit.,RC circuit.,RLC circuit.,RL Circuit.,D,False,0.64126325,0.14308518,0.183725,0.031926617
+What is the value of dielectric constant of air?,Less than 1,0.,1.,none of these.,C,True,0.112900645,0.18614168,0.39406195,0.30689576
+Temperature variation is a/an,Digital quantity,Analog quantity,Either Digital or Analog quantity,,B,False,0.50432223,0.34661528,0.1125295,0.036532983
+The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is,30,140.,150.,200.,C,False,0.09647719,0.3815747,0.3815747,0.14037348
+For a dc machine shunt resistance and armature resistance values are,high and high,high and low,low and low,low and high,B,True,0.240623,0.3501044,0.30896604,0.10030659
+The change of cross sectional area of conductor in magnetic field will affect,reluctance of conductor.,resistance of conductor.,(A) and (B) both in the same way.,none of above.,C,False,0.93701017,0.032062724,0.028295256,0.0026318687
+Which of the following is used in SCR to protect from high dV / dt?,Snubber circuit.,Fuse.,Equalizing circuit.,Circuit breaker.,A,True,0.54419625,0.29128727,0.107158594,0.05735786
+"What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?",Mnemonics,Directives,Identifiers,Operands,B,False,0.9333848,0.024873862,0.036191255,0.005550109
+Speed of data transmission in 4-G network of telecom is,386 kbps - 2 mbps.,2 mbps.,2 mbps – 1 gbps.,100 mbps - 1 gbps.,D,False,0.37239152,0.4219749,0.15523589,0.050397716
+Which of the followings is/are active element?,Voltage source,Current source,Both,None of these.,C,False,0.49752963,0.09796939,0.38747647,0.017024526
+Electrical analogous quantity for spring element (K) in force-voltage analogy is,L,R,1/C,C,C,True,0.19460726,0.11803527,0.46683857,0.22051892
+A quartz crystal oscillator consists of,only series resonant frequency.,only parallel resonant frequency.,both series and parallel frequencies.,neither series nor parallel frequency.,C,True,0.33721253,0.08526068,0.5559695,0.021557275
+Which of the following oscillators are used for low frequency (LF) applications,LC oscillators,RC oscillators,Both LC and RC Oscillators,,B,False,0.6091668,0.0727546,0.28775,0.030328628
+The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is,3 / 2.,1 / 3.,2 / 3.,2 / 5.,C,False,0.21013694,0.39258745,0.26982117,0.12745449
+Relative error is same as,ratio of absolute error and true value.,absolute error.,true error.,none of the above.,A,True,0.67993236,0.22074172,0.081206344,0.018119583
+If holding current of a thyristor is 2 mA then latching current should be,0.01 A.,0.002 A.,0.009 A.,0.004 A.,D,False,0.30407026,0.5013271,0.12675534,0.067847244
+"In an intel 8085A, which is the first machine cycle of an instruction?",An op-code fetch cycle,A memory read cycle,A memory write cycle,An I/O read cycle,A,True,0.87279487,0.06322505,0.043453895,0.020526169
+Which of the following are the disadvantages of a closed loop control system?,Reduces the overall gain.,Complex and costly.,Oscillatory response.,All of the above.,D,False,0.9031707,0.03501973,0.030904802,0.030904802
+"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are",LC network.,RC network.,RL network.,Both 2 and 3.,D,False,0.3632123,0.2202994,0.13361834,0.28287002
+The magnetisation and applied field in ferromagnetic materials are related,sinusoidally.,non linearly.,linearly.,parabolically.,B,False,0.5762202,0.34949523,0.060733162,0.013551401
+Thin laminations are used in a machine in order to reduce,Eddy current losses,Hysteresis losses,Both A and B,Copper losses,A,True,0.98507047,0.012400207,0.002154833,0.0003744538
+A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is,40π coulombs.,80π coulombs.,10π coulombs.,none of these.,B,True,0.2635431,0.29863346,0.23257597,0.20524758
+In binary number system the first digit (bit) from right to left is called as,"LSB, Least Significant Bit","MSB, Most Significant Bit",First Bit,Last Bit,A,True,0.92769915,0.021817394,0.04618742,0.0042960993
+In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is,0.,0.5.,1.,none of above.,B,False,0.10544079,0.28661776,0.13538864,0.4725528
+A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage,3.33 %.,2.66 %.,2 %.,1 %.,B,True,0.28007045,0.3596176,0.28007045,0.08024153
+Which of the following methods is/are used for reactive or voltage compensation,shunt capacitor,series capacitor,generation excitation control,all of the above,D,False,0.8472421,0.101188645,0.02899103,0.022578238
+The ROM programmed during manufacturing process itself is called,MROM,PROM,EPROM,EEPROM,A,True,0.6306799,0.10959574,0.23201418,0.027710142
+In 8085 name/names of the 16 bit registers is/are,stack pointer.,program counter.,both A and B.,none of these.,C,False,0.49909595,0.16203272,0.302717,0.03615439
+Stability of a transmission line can be increased by,shunt capacitor,series capacitor,shunt reactor,both A and B,D,False,0.6109589,0.17504266,0.093693584,0.120304935
+Snubber circuit is used with SCR,in series.,in parallel.,either series or parallel.,anti parallel.,B,True,0.23220365,0.49157515,0.26312122,0.013100034
+The number of rings in the Bohr model of any element is determined by what?,Column number on periodic table.,Atomic mass.,Row number on periodic table.,Atomic number.,C,False,0.017031379,0.017031379,0.03605543,0.9298818
+Silicon and Germanium are ________ elements.,trivalant,pentavalant,hexavalant,tetravalant,D,False,0.20866026,0.30359888,0.30359888,0.18414204
+The number of output pins in 8085 microprocessors are,27.,40.,21.,19.,A,False,0.0854477,0.15963732,0.49171755,0.26319745
+If P is the power of a star connected system then what will be power of an equivalent delta connected system?,P,3P,P/3,None of the above,A,False,0.12303432,0.295144,0.20284931,0.37897238
+Which oscillators are easy to fabricate in a monolithic IC?,Crystal oscillator.,Hartley oscillator.,Wien bridge oscillator.,Relaxation oscillator.,D,False,0.7188069,0.097279936,0.124909915,0.059003264
+"If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is",DC only,AC only,Either AC or DC,An Impulse,C,False,0.5858958,0.11536972,0.24423769,0.0544968
+The feedback factor of a Wien bridge oscillator using Op-Amp is,1/3,1/4,1/2,1,C,True,0.16524743,0.2121819,0.5089979,0.11357279
+"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between",T1 & T2,T2 & T3,T3 & T4,T4 & T1,C,False,0.2766522,0.13068123,0.19014007,0.40252653
+Which of the following is not a sinusoidal oscillator?,LC oscillator,RC phase shift oscillator,Relaxation oscillator,Crystal oscillator,C,True,0.09439044,0.22643088,0.47935417,0.19982454
+A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be,parallel to the plane of the wire.,perpendicular to the circumference of the wire.,parallel to half portion and perpendicular for the other half.,none of above.,A,False,0.37698644,0.48406017,0.10800843,0.03094493
